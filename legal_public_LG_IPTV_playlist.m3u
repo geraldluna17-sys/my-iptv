@@ -1,0 +1,12 @@
+#EXTM3U
+# Cignal-style legal/public livestream starter playlist
+# Note: These are official web/YouTube destinations, not guaranteed direct .m3u8 feeds.
+# Some IPTV players require direct stream URLs and will not play webpage/YouTube URLs.
+
+#EXTINF:-1 tvg-name="GMA Network",group-title="Philippines",https://www.youtube.com/@gmanetwork/live
+#EXTINF:-1 tvg-name="GMA News",group-title="Philippines",https://www.youtube.com/@gmanews/live
+#EXTINF:-1 tvg-name="ABS-CBN Entertainment / Kapamilya Online Live",group-title="Philippines",https://www.youtube.com/@ABSCBNEntertainment/live
+#EXTINF:-1 tvg-name="PTV Philippines",group-title="Philippines",https://www.youtube.com/@ptvphilippines/live
+#EXTINF:-1 tvg-name="ABC News Live",group-title="USA",https://abcnews.com/live
+#EXTINF:-1 tvg-name="CBS News 24/7",group-title="USA",https://www.cbsnews.com/live/
+#EXTINF:-1 tvg-name="NBC News NOW",group-title="USA",https://www.youtube.com/@NBCNews/live

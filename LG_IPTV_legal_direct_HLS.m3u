@@ -1,0 +1,25 @@
+#EXTM3U
+# Legal/public direct HLS starter playlist for LG IPTV
+# Direct HLS feeds only; no YouTube/webpage URLs.
+# Philippine broadcasters are omitted where I could not verify a current official direct HLS feed.
+
+#EXTINF:-1 tvg-name="ABC News Live" group-title="USA | News",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+
+#EXTINF:-1 tvg-name="CBS News 24/7" group-title="USA | News",CBS News 24/7
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+
+#EXTINF:-1 tvg-name="NBC News NOW" group-title="USA | News",NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg Television" group-title="USA | Business",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-name="Reuters TV" group-title="USA | News",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Public" group-title="USA | Science",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Media" group-title="USA | Science",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
